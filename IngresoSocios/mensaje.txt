@@ -1,0 +1,8 @@
+--------------------------------------------
+Ingrese "A" para registrar un nuevo usuario
+Ingrese "B" para ver un listado de los usuarios registrados
+Ingrese "C" para editar la información de un usuario registrado
+Ingrese "D" para ver la información de un usuario
+Ingrese "E" para eliminar un usuario registrado
+Pulse enter para salir
+--------------------------------------------
